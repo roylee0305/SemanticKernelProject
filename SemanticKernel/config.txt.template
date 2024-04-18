@@ -1,0 +1,4 @@
+OPENAI_MODEL_ID=custom_llm
+OPENAI_API_KEY=no_need
+GOOGLE_API_KEY=api_key
+GOOGLE_SEARCH_ENGINE_ID=engine_id

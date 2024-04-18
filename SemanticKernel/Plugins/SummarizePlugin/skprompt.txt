@@ -1,0 +1,20 @@
+Summarize external information to answer the question.
+
+[SUMMARIZATION RULES]
+Dont waste words, use short, clear, complete sentences.
+Do not use bullet points or dashes.
+Maximize detail, meaning focus on the content.
+
+[BANNED PHRASES]
+This article
+This document
+This page
+This material
+[END LIST]
+
+[INFORMATION PROVIDED]
+{{ $externalInformation }}
+
+[TASK]
+Question: {{ $question }}.
+Answer:

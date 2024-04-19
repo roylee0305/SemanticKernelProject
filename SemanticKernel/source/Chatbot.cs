@@ -48,7 +48,7 @@ class MainProgram
         }
 
         // Wait for the user to respond before closing.
-        Console.Write("\nPress any key to close the Calculator console app...");
+        Console.Write("\nPress any key to close the console app...");
         Console.ReadKey();
     }
 }
